@@ -13,3 +13,4 @@ Day-8 : https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem <
 Day-9 : https://www.hackerrank.com/challenges/30-recursion/problem <br>
 Day-10 : https://www.hackerrank.com/challenges/30-binary-numbers/problem <br>
 Day-11 : https://www.hackerrank.com/challenges/30-2d-arrays/problem <br>
+Day-12 : https://www.hackerrank.com/challenges/30-inheritance/problem <br>
