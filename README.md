@@ -1,5 +1,5 @@
 # 30daychallenge
-30  day challenge of hackerrank
+30  days of code - hackerrank
 
 Day-0 : https://www.hackerrank.com/challenges/30-hello-world/problem <br>
 Day-1 : https://www.hackerrank.com/challenges/30-data-types/problem <br>
@@ -22,3 +22,4 @@ Day-17 : https://www.hackerrank.com/challenges/30-more-exceptions/problem <br>
 Day-18 : https://www.hackerrank.com/challenges/30-queues-stacks/problem <br>
 Day-19 : https://www.hackerrank.com/challenges/30-interfaces/problem <br>
 Day-20 : https://www.hackerrank.com/challenges/30-sorting/problem <br>
+Day-21 : https://www.hackerrank.com/challenges/30-generics/problem <br>
