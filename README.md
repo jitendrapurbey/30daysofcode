@@ -20,3 +20,4 @@ Day-15 : https://www.hackerrank.com/challenges/30-linked-list/problem <br>
 Day-16 : https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem <br>
 Day-17 : https://www.hackerrank.com/challenges/30-more-exceptions/problem <br>
 Day-18 : https://www.hackerrank.com/challenges/30-queues-stacks/problem <br>
+Day-19 : https://www.hackerrank.com/challenges/30-interfaces/problem <br>
