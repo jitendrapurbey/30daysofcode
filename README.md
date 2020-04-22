@@ -30,3 +30,4 @@ Day-25 : https://www.hackerrank.com/challenges/30-running-time-and-complexity/pr
 Day-26 : https://www.hackerrank.com/challenges/30-nested-logic/problem <br>
 Day-27 : https://www.hackerrank.com/challenges/30-testing/problem <br>
 Day-28 : https://www.hackerrank.com/challenges/30-regex-patterns/problem <br>
+Day-29 : https://www.hackerrank.com/challenges/30-bitwise-and/problem <br>
