@@ -26,3 +26,4 @@ Day-21 : https://www.hackerrank.com/challenges/30-generics/problem <br>
 Day-22 : https://www.hackerrank.com/challenges/30-binary-search-trees/problem <br>
 Day-23 : https://www.hackerrank.com/challenges/30-binary-trees/problem <br>
 Day-24 : https://www.hackerrank.com/challenges/30-linked-list-deletion/problem <br>
+Day-24 : https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem <br>
