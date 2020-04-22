@@ -24,3 +24,4 @@ Day-19 : https://www.hackerrank.com/challenges/30-interfaces/problem <br>
 Day-20 : https://www.hackerrank.com/challenges/30-sorting/problem <br>
 Day-21 : https://www.hackerrank.com/challenges/30-generics/problem <br>
 Day-22 : https://www.hackerrank.com/challenges/30-binary-search-trees/problem <br>
+Day-23 : https://www.hackerrank.com/challenges/30-binary-trees/problem <br>
