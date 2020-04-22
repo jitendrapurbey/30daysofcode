@@ -29,3 +29,4 @@ Day-24 : https://www.hackerrank.com/challenges/30-linked-list-deletion/problem <
 Day-25 : https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem <br>
 Day-26 : https://www.hackerrank.com/challenges/30-nested-logic/problem <br>
 Day-27 : https://www.hackerrank.com/challenges/30-testing/problem <br>
+Day-28 : https://www.hackerrank.com/challenges/30-regex-patterns/problem <br>
