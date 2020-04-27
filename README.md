@@ -1,4 +1,4 @@
-# 30daychallenge
+# 30dayofcode
 30  days of code - hackerrank
 
 Day-0 : https://www.hackerrank.com/challenges/30-hello-world/problem <br>
